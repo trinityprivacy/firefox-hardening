@@ -19,6 +19,8 @@ sudo snap remove firefox
 
 #### Add Mozilla Team Repository
 
+This is an optional step, but as lot of people do not like snap package manager, I thought to add this step as well in case you want a fresh install
+
 Run the following command in the same Terminal window:
 ```bash
 sudo add-apt-repository ppa:mozillateam/ppa
