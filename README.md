@@ -77,16 +77,27 @@ Copy the profile root directory you want to add the user.js file into
 Example: /home/user/.mozilla/firefox/abcded.profile-name
 ```
 
-Extract the files :
+Extract the files from the .zip file:
 ```bash
-unzip user.js-xxx.zip /home/user/.mozilla/firefox/abcded.profile-name
+unzip -q user.js-xxx.zip
 ```
+
+Go into the extracted folder:
+```bash
+cd user.js-xxx/
+```
+Copy the content of the folder into the profile root directory
+```bash
+cp *.* /home/user/.mozilla/firefox/abcded.profile-name
+```
+Now, if you re-open your browser and everything has gone fine, you should see something like a windows opened in a window, this is because the resolution has been spoofed and the reason is to prevent canvas fingerprinter.
+
 
 ## Recommended Extensions
 
 ### uBlock Origin
 
-aaa
+Link: [click](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 ### BitWarden Password Manager
 
