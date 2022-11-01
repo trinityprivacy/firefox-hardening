@@ -14,11 +14,6 @@ This guide is about how to install Firefox on Linux via APT package manager and 
     - [Download Link](#download-link)
     - [Extract the files](#extract-the-files)
 * [Recommended Extensions](#recommended-extensions)
-    - [uBlock Origin](#ublock-origin)
-    - [BitWarden Password Manager](#bitwarden-password-manager)
-    - [Skip Redirect](#skip-redirect)
-    - [LocalCDN](#localcdn)
-    - [Multi Account Containers](#multi-account-containers)
 
 ## Install Firefox via APT as DEB package
 
@@ -95,27 +90,8 @@ Now, if you re-open your browser and everything has gone fine, you should see so
 
 ## Recommended Extensions
 
-### uBlock Origin
-
-Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory
-Link: [click](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-
-### BitWarden Password Manager
-
-A secure and free password manager for all of your devices
-Link: [click](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
-
-### Skip Redirect
-
-Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
-Link: [click](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-
-### LocalCDN
-
-Emulates remote frameworks and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more.
-Link: [click](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-
-### Multi Account Container
-
-It lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts
-Link: [click](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- <img src="https://user-images.githubusercontent.com/114076168/199192811-6b6bed17-2af7-49ea-9cad-0e49dfafeaae.png" width="20" height="20"> uBlock Origin: [link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- <img src="https://user-images.githubusercontent.com/114076168/199192844-f0a42bbd-8d9a-47fc-9f8f-8cc0cc111db4.png" width="20" height="20"> BitWarden Password Manager: [link](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
+- <img src="https://user-images.githubusercontent.com/114076168/199192916-00b00905-273c-4d4c-bfa6-e20bd38929fc.png" width="20" height="20"> Skip Redirect: [link](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- <img src="https://user-images.githubusercontent.com/114076168/199192958-a7f47ee3-96e0-48ca-b18a-1cbe52f0e1cb.png" width="20" height="20"> LocalCDN: [link](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- <img src="https://user-images.githubusercontent.com/114076168/199193068-5af38361-5d44-496e-94a2-3c88603c54f1.png" width="20" height="20"> Firefox Multi-Account Container: [link](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
