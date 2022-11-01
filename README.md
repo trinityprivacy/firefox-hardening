@@ -1,10 +1,10 @@
-# Firefox Hardening: Make your browser safe
+# <img src="https://user-images.githubusercontent.com/114076168/199189876-ff5f49f8-975d-43fd-b040-9bee0b25f323.png" width="33" height="35"> Firefox Hardening Guide [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fp4privacy%2Fsentinel_resources&count_bg=%230000ff&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-This guide is about how to install Firefox on Linux and harden it to make it as safe as possible
+This guide is about how to install Firefox on Linux via APT package manager and harden it to make your browsing as safe as possible
 
 ## Menu
 
-* [Install Firefox as DEB package](#install-firefox-as-deb-package)
+* [Install Firefox via APT as DEB package](#install-firefox-via-apt-as-deb-package)
     - [Remove Firefox from Snap](#remove-firefox-from-snap)
     - [Add Mozilla Team Repository](#add-mozilla-team-repository)
     - [Set the deb version as preferred](#set-the-deb-version-as-preferred)
@@ -20,7 +20,7 @@ This guide is about how to install Firefox on Linux and harden it to make it as 
     - [LocalCDN](#localcdn)
     - [Multi Account Containers](#multi-account-containers)
 
-## Install Firefox as DEB package
+## Install Firefox via APT as DEB package
 
 ### Remove Firefox from Snap
 
@@ -97,20 +97,25 @@ Now, if you re-open your browser and everything has gone fine, you should see so
 
 ### uBlock Origin
 
+Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory
 Link: [click](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 ### BitWarden Password Manager
 
-aaa
+A secure and free password manager for all of your devices
+Link: [click](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
 
 ### Skip Redirect
 
-aaa
+Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
+Link: [click](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 ### LocalCDN
 
-aaa
+Emulates remote frameworks and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more.
+Link: [click](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 ### Multi Account Container
 
-aaa
+It lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts
+Link: [click](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
