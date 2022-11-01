@@ -12,7 +12,7 @@ This guide is about how to install Firefox on Linux via APT package manager and 
 
 #### Remove Firefox from Snap
 
-This is an optional step, but as lot of people do not like snap package manager, I thought to add this step as well in case you want a fresh install
+This is an optional step, but as lot of people do not like snap package manager, I thought to add this step as well in case you want to make a fresh install
 
 On your computer open a terminal and type:
 ```bash
