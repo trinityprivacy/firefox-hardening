@@ -85,8 +85,9 @@ Now, if you re-open your browser and everything has gone fine, you should see so
 
 ## Recommended Extensions
 
-- <img src="https://user-images.githubusercontent.com/114076168/199192811-6b6bed17-2af7-49ea-9cad-0e49dfafeaae.png" width="20" height="20"> [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search).
-  - After installing, go to preferences, click on tab filter lists and under Privacy select "AdGuard Tracking Protection".
+- <img src="https://user-images.githubusercontent.com/114076168/199192811-6b6bed17-2af7-49ea-9cad-0e49dfafeaae.png" width="20" height="20"> [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search). After installing the extension go to Preferences -> Filter Lists and:
+  - Enable "AdGuard Tracking Protection" on Privacy section
+  - Import [Actually Legitimate URL Shortener Tool](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt) on Import -> Custom, paste the link and click on Apply
 - <img src="https://user-images.githubusercontent.com/114076168/199192844-f0a42bbd-8d9a-47fc-9f8f-8cc0cc111db4.png" width="20" height="20"> [BitWarden Password Manager](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
 - <img src="https://user-images.githubusercontent.com/114076168/199192916-00b00905-273c-4d4c-bfa6-e20bd38929fc.png" width="20" height="20"> [Skip Redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 - <img src="https://user-images.githubusercontent.com/114076168/199192958-a7f47ee3-96e0-48ca-b18a-1cbe52f0e1cb.png" width="20" height="20"> [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
