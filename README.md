@@ -5,7 +5,8 @@ This guide is about how to install Firefox on Linux via APT package manager and 
 ## Menu
 
 * [Install Firefox via APT as DEB package](#install-firefox-via-apt-as-deb-package)
-* [User Configuration File](#user-configuration-file)
+* [First Method: User Configuration File](#first-method-user-configuration-file)
+* [Second Method: Firefox Profile Maker](#second-method-firefox-profile-maker)
 * [Recommended Extensions](#recommended-extensions)
 
 ## Install Firefox via APT as DEB package
@@ -49,7 +50,7 @@ echo 'Unattended-Upgrade::Allowed-Origins:: "LP-PPA-mozillateam:${distro_codenam
 sudo apt install firefox
 ```
 
-## User Configuration File
+## First Method: User Configuration File
 
 #### Download Link
 
@@ -81,6 +82,34 @@ Copy the content of the folder into the profile root directory
 cp *.* /home/user/.mozilla/firefox/abcded.profile-name
 ```
 Now, if you re-open your browser and everything has gone fine, you should see something like a windows opened in a window, this is because the resolution has been spoofed and the reason is to prevent canvas fingerprinter.
+
+
+## Second Method: Firefox Profile Maker
+
+This is an online tool that will help you to create a Firefox profile with the defaults you like.
+You select which features you want to enable and disable and in the end you get a download link for a zip-file with your profile template
+
+### Installation
+
+- First step is going to the website [https://ffprofile.com](https://ffprofile.com) and foolow the steps.
+The process is pretty straightforward and you can also select the addons/extensions which will be automatically installed.
+I have listed anyway some recommended extensions at the end of this guide.
+At the end of the step by step process you will have 4 download options, but we will go with the complete one and download he file profile.zip
+
+- Optional: add a new profile to keep the old one
+  - Run on a terminal:
+  ```bash
+  firefox -no-remote -ProfileManager
+  ```
+  - Create a new profile
+- Type about:support into the firefox url bar.
+- Press the open profile folder button.
+- Quit Firefox.
+- Delete everything from the new profile (you will lose all existing data from the profile).
+- Unzip the profile.zip archive into the folder.
+- If Existent: Unzip the enterprise_policy.zip archive to Firefox installation directory.
+- Start Firefox again. If you made a new profile, you can use it with firefox -no-remote -P profilename.
+- Open the addon manager and update the extensions.
 
 
 ## Recommended Extensions
