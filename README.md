@@ -52,9 +52,12 @@ sudo apt install firefox
 
 ## First Method: User Configuration File
 
+The [arkenfox/user.js](https://github.com/arkenfox/user.js) is a configuration file which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage.
+
 #### Download Link
 
-The file user.js-xxx.zip can be downloaded from this repository: [https://github.com/arkenfox/user.js](https://github.com/arkenfox/user.js)
+The file user.js-xxx.zip can be downloaded from the repository [release page](https://github.com/arkenfox/user.js/releases)
+Be aware that before proceeding with this methos, a read to the [wiki](https://github.com/arkenfox/user.js/wiki) is highly recommended!
 
 #### Extract the files
 
