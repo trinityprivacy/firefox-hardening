@@ -57,7 +57,7 @@ The [arkenfox/user.js](https://github.com/arkenfox/user.js) is a configuration f
 #### Download Link
 
 The file user.js-xxx.zip can be downloaded from the repository [release page](https://github.com/arkenfox/user.js/releases).
-Be aware that before proceeding with this methos, a read to the [wiki](https://github.com/arkenfox/user.js/wiki) is highly recommended!
+Be aware that before proceeding with this method, a read to the [wiki](https://github.com/arkenfox/user.js/wiki) is highly recommended!
 
 #### Extract the files
 
