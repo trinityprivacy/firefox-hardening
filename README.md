@@ -12,6 +12,8 @@ If you want a ready solution instead, there is a great Firefox fork called [Libr
 
 ## Install Firefox via APT as DEB package
 
+if you are a Ubuntu or Debian based used I recommend you to follow these steps.
+
 #### Remove Firefox from Snap
 
 This is an optional step, but as lot of people do not like snap package manager, I thought to add this step as well in case you want to make a fresh install
