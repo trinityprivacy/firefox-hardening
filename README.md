@@ -1,6 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/114076168/199189876-ff5f49f8-975d-43fd-b040-9bee0b25f323.png" width="33" height="35"> Firefox Hardening Guide [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fp4privacy%2Ffirefox-hardening&count_bg=%230000ff&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-This guide is about how to install Firefox on Linux via APT package manager and harden it to make your browsing as safe as possible
+This guide is for everyone who aims to manually harden his Firefox browser and make web surfing as safe as possible.
+If you want a ready solution instead, there is a great Firefox fork called [LibreWolf](https://librewolf.net/)
 
 ## Menu
 
