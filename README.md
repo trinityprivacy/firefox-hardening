@@ -97,7 +97,7 @@ You select which features you want to enable and disable and in the end you get 
 
 ### Installation
 
-- First step is going to the website [https://ffprofile.com](https://ffprofile.com) and foolow the steps.
+- First step is going to the website [https://ffprofile.com](https://ffprofile.com) and follow the steps.
 The process is pretty straightforward and you can also select the addons/extensions which will be automatically installed.
 I have listed anyway some recommended extensions at the end of this guide.
 At the end of the step by step process you will have 4 download options, but we will go with the complete one and download he file profile.zip
